@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions solved by me.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
