@@ -58,6 +58,7 @@ A collection of LeetCode questions solved by me.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish28kumar-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/monish28kumar-hub/Leetcode/tree/master/0072-edit-distance) |
+| [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
+| [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -101,5 +103,10 @@ A collection of LeetCode questions solved by me.
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
