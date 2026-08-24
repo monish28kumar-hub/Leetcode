@@ -69,6 +69,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/monish28kumar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish28kumar-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
@@ -103,10 +104,15 @@ A collection of LeetCode questions solved by me.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
