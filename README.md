@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me.
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish28kumar-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
