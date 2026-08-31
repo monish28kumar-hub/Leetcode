@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me.
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish28kumar-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -123,4 +125,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
