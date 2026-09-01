@@ -60,6 +60,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish28kumar-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/monish28kumar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions solved by me.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions solved by me.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions solved by me.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
