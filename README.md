@@ -21,6 +21,7 @@ A collection of LeetCode questions solved by me.
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions solved by me.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish28kumar-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
