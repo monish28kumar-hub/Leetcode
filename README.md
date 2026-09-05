@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions solved by me.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions solved by me.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
