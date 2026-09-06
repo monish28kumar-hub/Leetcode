@@ -120,6 +120,7 @@ A collection of LeetCode questions solved by me.
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
