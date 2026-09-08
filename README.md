@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me.
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish28kumar-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions solved by me.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
