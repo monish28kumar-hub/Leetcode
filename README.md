@@ -117,6 +117,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
+| [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions solved by me.
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
