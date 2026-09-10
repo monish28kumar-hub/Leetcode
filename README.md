@@ -71,6 +71,7 @@ A collection of LeetCode questions solved by me.
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/monish28kumar-hub/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions solved by me.
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/monish28kumar-hub/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Game Theory
 |  |
 | ------- |
