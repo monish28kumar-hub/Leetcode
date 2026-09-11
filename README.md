@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monish28kumar-hub/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions solved by me.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish28kumar-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
