@@ -68,6 +68,7 @@ A collection of LeetCode questions solved by me.
 | [0014-longest-common-prefix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish28kumar-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/monish28kumar-hub/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/monish28kumar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
