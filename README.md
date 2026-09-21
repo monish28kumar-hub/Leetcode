@@ -185,13 +185,20 @@ A collection of LeetCode questions solved by me.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monish28kumar-hub/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monish28kumar-hub/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monish28kumar-hub/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/monish28kumar-hub/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
