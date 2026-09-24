@@ -140,6 +140,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions solved by me.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
 ## Trie
@@ -212,4 +214,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/monish28kumar-hub/Leetcode/tree/master/0100-same-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
