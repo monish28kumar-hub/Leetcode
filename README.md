@@ -21,6 +21,7 @@ A collection of LeetCode questions solved by me.
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions solved by me.
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions solved by me.
 ## Sliding Window
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions solved by me.
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
@@ -183,6 +187,7 @@ A collection of LeetCode questions solved by me.
 | [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +196,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
