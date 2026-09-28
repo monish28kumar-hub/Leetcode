@@ -18,6 +18,7 @@ A collection of LeetCode questions solved by me.
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish28kumar-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions solved by me.
 | [0073-set-matrix-zeroes](https://github.com/monish28kumar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
