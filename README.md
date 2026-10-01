@@ -26,6 +26,7 @@ A collection of LeetCode questions solved by me.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions solved by me.
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0507-perfect-number) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/monish28kumar-hub/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Game Theory
