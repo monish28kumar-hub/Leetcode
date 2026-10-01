@@ -128,6 +128,7 @@ A collection of LeetCode questions solved by me.
 | [0054-spiral-matrix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/monish28kumar-hub/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions solved by me.
 | [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
