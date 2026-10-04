@@ -158,6 +158,7 @@ A collection of LeetCode questions solved by me.
 | [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/monish28kumar-hub/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/monish28kumar-hub/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
