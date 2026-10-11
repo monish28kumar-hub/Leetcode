@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me.
 | [0014-longest-common-prefix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/monish28kumar-hub/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/monish28kumar-hub/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/monish28kumar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monish28kumar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/monish28kumar-hub/Leetcode/tree/master/0054-spiral-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions solved by me.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/monish28kumar-hub/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/monish28kumar-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/monish28kumar-hub/Leetcode/tree/master/0400-nth-digit) |
