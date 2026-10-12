@@ -36,6 +36,7 @@ A collection of LeetCode questions solved by me.
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/monish28kumar-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions solved by me.
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/monish28kumar-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
@@ -88,6 +90,7 @@ A collection of LeetCode questions solved by me.
 | [0058-length-of-last-word](https://github.com/monish28kumar-hub/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/monish28kumar-hub/Leetcode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/monish28kumar-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
