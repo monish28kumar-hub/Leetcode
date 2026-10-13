@@ -160,6 +160,7 @@ A collection of LeetCode questions solved by me.
 | [0070-climbing-stairs](https://github.com/monish28kumar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/monish28kumar-hub/Leetcode/tree/master/0400-nth-digit) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions solved by me.
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 ## Memoization
 |  |
@@ -245,4 +247,20 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
