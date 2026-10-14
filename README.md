@@ -150,6 +150,7 @@ A collection of LeetCode questions solved by me.
 | ------- |
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/monish28kumar-hub/Leetcode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions solved by me.
 | [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/monish28kumar-hub/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/monish28kumar-hub/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/monish28kumar-hub/Leetcode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/monish28kumar-hub/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
