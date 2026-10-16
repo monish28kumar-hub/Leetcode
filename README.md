@@ -170,6 +170,7 @@ A collection of LeetCode questions solved by me.
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0507-perfect-number) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
