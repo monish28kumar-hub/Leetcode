@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me.
 | [0169-majority-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
+| [0598-range-addition-ii](https://github.com/monish28kumar-hub/Leetcode/tree/master/0598-range-addition-ii) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions solved by me.
 | [0441-arranging-coins](https://github.com/monish28kumar-hub/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/monish28kumar-hub/Leetcode/tree/master/0598-range-addition-ii) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
