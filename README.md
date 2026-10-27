@@ -23,6 +23,7 @@ A collection of LeetCode questions solved by me.
 | [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/monish28kumar-hub/Leetcode/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions solved by me.
 | [0217-contains-duplicate](https://github.com/monish28kumar-hub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monish28kumar-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions solved by me.
 | [0492-construct-the-rectangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/monish28kumar-hub/Leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/monish28kumar-hub/Leetcode/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/monish28kumar-hub/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
