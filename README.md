@@ -27,6 +27,7 @@ A collection of LeetCode questions solved by me.
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions solved by me.
 | [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/monish28kumar-hub/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monish28kumar-hub/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
