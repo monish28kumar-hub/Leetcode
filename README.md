@@ -140,6 +140,7 @@ A collection of LeetCode questions solved by me.
 | [0258-add-digits](https://github.com/monish28kumar-hub/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/monish28kumar-hub/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish28kumar-hub/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions solved by me.
 | [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/monish28kumar-hub/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1688-count-of-matches-in-tournament](https://github.com/monish28kumar-hub/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
