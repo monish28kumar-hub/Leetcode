@@ -26,6 +26,7 @@ A collection of LeetCode questions solved by me.
 | [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions solved by me.
 | [0242-valid-anagram](https://github.com/monish28kumar-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/monish28kumar-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions solved by me.
 | [0044-wildcard-matching](https://github.com/monish28kumar-hub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/monish28kumar-hub/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/monish28kumar-hub/Leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/monish28kumar-hub/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions solved by me.
 | [0628-maximum-product-of-three-numbers](https://github.com/monish28kumar-hub/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/monish28kumar-hub/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1688-count-of-matches-in-tournament](https://github.com/monish28kumar-hub/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
@@ -288,4 +293,5 @@ A collection of LeetCode questions solved by me.
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/monish28kumar-hub/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
