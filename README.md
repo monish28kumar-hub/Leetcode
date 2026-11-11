@@ -102,6 +102,7 @@ A collection of LeetCode questions solved by me.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/monish28kumar-hub/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/monish28kumar-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monish28kumar-hub/Leetcode/tree/master/0415-add-strings) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish28kumar-hub/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/monish28kumar-hub/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions solved by me.
 | [0836-rectangle-overlap](https://github.com/monish28kumar-hub/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/monish28kumar-hub/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1688-count-of-matches-in-tournament](https://github.com/monish28kumar-hub/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/monish28kumar-hub/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monish28kumar-hub/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monish28kumar-hub/Leetcode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/monish28kumar-hub/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
